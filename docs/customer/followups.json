@@ -1,3 +1,19 @@
 {
-  "records": []
+  "records": [
+    {
+      "id": "20250202-001",
+      "date": "2025-02-02",
+      "contact": "晏兵兵",
+      "contactRole": "法定代表人",
+      "type": "线下拜访",
+      "summary": "与负责人沟通项目，对方表示项目很有潜力",
+      "keyPoints": [
+        "认可项目潜力"
+      ],
+      "nextSteps": [
+        "保持跟进"
+      ],
+      "status": "进行中"
+    }
+  ]
 }
